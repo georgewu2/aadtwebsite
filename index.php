@@ -21,6 +21,12 @@ $id = $_SESSION["id"];
     		<div class="center">
 				<img src="images/aadt_logo.png" />
 				<p>Welcome to the website of the Harvard Asian American Dance Troupe (AADT), a student-run organization at Harvard College! Please join us as we explore the world of Asian culture and dance.</p>
+	<h2><b>Join AADT 2014!</b> | April 21, 2014 </h2><br/>
+	<iframe width="550" height="315" src="http://www.youtube.com/embed/mDLDJMJi05c" frameborder="0" allowfullscreen></iframe>
+	
+	<h2><b>Eastbound 2014 Videos!!!</b> | April 21, 2014 </h2><br>
+	<iframe width="560" height="315" src="//www.youtube.com/embed/tXZLF_xqvaQ?list=PLadDdfXlfSo3Pk2nKGXJvk50RnXATlwIn" frameborder="0" allowfullscreen></iframe>
+
 	<h2><b>Join AADT This Fall!</b> | June 9, 2013</h2><br><br>
 	<iframe width="550" height="315" src="http://www.youtube.com/embed/KWXHEK3pIuE" frameborder="0" allowfullscreen></iframe>
 	<p>
