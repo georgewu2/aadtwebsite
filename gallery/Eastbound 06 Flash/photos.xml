@@ -1,0 +1,881 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#00CCFF"
+date = "">
+	<sitename>AADT Gallery - Eastbound 06</sitename>
+	<photographer>Photos Courtesy Sam Lipoff</photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "01_wind_001_std.jpg"
+width = "401"
+height = "600"
+thumbpath = "01_wind_001_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "01_wind_002_std.jpg"
+width = "376"
+height = "600"
+thumbpath = "01_wind_002_std.jpg"
+thumbwidth = "47"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "01_wind_003_std.jpg"
+width = "396"
+height = "600"
+thumbpath = "01_wind_003_std.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "01_wind_004_std.jpg"
+width = "600"
+height = "399"
+thumbpath = "01_wind_004_std.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "01_wind_005_std.jpg"
+width = "600"
+height = "306"
+thumbpath = "01_wind_005_std.jpg"
+thumbwidth = "75"
+thumbheight = "38">
+</image>
+
+
+<image
+path = "01_wind_006_std.jpg"
+width = "600"
+height = "401"
+thumbpath = "01_wind_006_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "02_spark_boa_001_std.jpg"
+width = "408"
+height = "600"
+thumbpath = "02_spark_boa_001_std.jpg"
+thumbwidth = "51"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "02_spark_boa_002_std.jpg"
+width = "395"
+height = "600"
+thumbpath = "02_spark_boa_002_std.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "02_spark_boa_003_std.jpg"
+width = "384"
+height = "600"
+thumbpath = "02_spark_boa_003_std.jpg"
+thumbwidth = "48"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "03_nyta_001_std.jpg"
+width = "600"
+height = "401"
+thumbpath = "03_nyta_001_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "03_nyta_002_std.jpg"
+width = "401"
+height = "600"
+thumbpath = "03_nyta_002_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "03_nyta_003_std.jpg"
+width = "600"
+height = "401"
+thumbpath = "03_nyta_003_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "03_nyta_004_std.jpg"
+width = "600"
+height = "399"
+thumbpath = "03_nyta_004_std.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "04_bhangra_001_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "04_bhangra_001_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "04_bhangra_002_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "04_bhangra_002_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "04_bhangra_003_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "04_bhangra_003_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "04_bhangra_004_std.jpg"
+width = "398"
+height = "600"
+thumbpath = "04_bhangra_004_std.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "04_bhangra_005_std.jpg"
+width = "600"
+height = "399"
+thumbpath = "04_bhangra_005_std.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "05_plum_blossom_001_std.jpg"
+width = "396"
+height = "600"
+thumbpath = "05_plum_blossom_001_std.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "05_plum_blossom_002_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "05_plum_blossom_002_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "05_plum_blossom_003_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "05_plum_blossom_003_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "05_plum_blossom_004_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "05_plum_blossom_004_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "05_plum_blossom_005_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "05_plum_blossom_005_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "05_plum_blossom_006_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "05_plum_blossom_006_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "06_tian_zhu_001_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "06_tian_zhu_001_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "06_tian_zhu_002_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "06_tian_zhu_002_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "06_tian_zhu_003_std.jpg"
+width = "600"
+height = "401"
+thumbpath = "06_tian_zhu_003_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "07_hpf_001_std.jpg"
+width = "600"
+height = "399"
+thumbpath = "07_hpf_001_std.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "07_hpf_002_std.jpg"
+width = "600"
+height = "399"
+thumbpath = "07_hpf_002_std.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "07_hpf_003_std.jpg"
+width = "600"
+height = "399"
+thumbpath = "07_hpf_003_std.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "07_hpf_004_std.jpg"
+width = "600"
+height = "399"
+thumbpath = "07_hpf_004_std.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "07_hpf_005_std.jpg"
+width = "600"
+height = "399"
+thumbpath = "07_hpf_005_std.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "07_hpf_006_std.jpg"
+width = "600"
+height = "399"
+thumbpath = "07_hpf_006_std.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "07_hpf_007_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "07_hpf_007_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "07_hpf_008_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "07_hpf_008_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "07_hpf_009_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "07_hpf_009_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "08_alishan_001_std.jpg"
+width = "388"
+height = "600"
+thumbpath = "08_alishan_001_std.jpg"
+thumbwidth = "48"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "08_alishan_002_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "08_alishan_002_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "08_alishan_003_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "08_alishan_003_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "08_alishan_004_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "08_alishan_004_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "08_alishan_005_std.jpg"
+width = "600"
+height = "399"
+thumbpath = "08_alishan_005_std.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "11_walking_towards_tibet_001_std.jpg"
+width = "600"
+height = "399"
+thumbpath = "11_walking_towards_tibet_001_std.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "11_walking_towards_tibet_002_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "11_walking_towards_tibet_002_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "11_walking_towards_tibet_003_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "11_walking_towards_tibet_003_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "11_walking_towards_tibet_004_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "11_walking_towards_tibet_004_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "11_walking_towards_tibet_005_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "11_walking_towards_tibet_005_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "12_ripples_of_swan_lake_001_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "12_ripples_of_swan_lake_001_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "12_ripples_of_swan_lake_002_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "12_ripples_of_swan_lake_002_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "12_ripples_of_swan_lake_003_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "12_ripples_of_swan_lake_003_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "12_ripples_of_swan_lake_004_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "12_ripples_of_swan_lake_004_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "12_ripples_of_swan_lake_005_std.jpg"
+width = "600"
+height = "399"
+thumbpath = "12_ripples_of_swan_lake_005_std.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "13_vietnamese_001_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "13_vietnamese_001_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "13_vietnamese_002_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "13_vietnamese_002_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "13_vietnamese_003_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "13_vietnamese_003_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "14_dreams_in_the_meadow_001_std.jpg"
+width = "387"
+height = "600"
+thumbpath = "14_dreams_in_the_meadow_001_std.jpg"
+thumbwidth = "48"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "14_dreams_in_the_meadow_002_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "14_dreams_in_the_meadow_002_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "14_dreams_in_the_meadow_003_std.jpg"
+width = "399"
+height = "600"
+thumbpath = "14_dreams_in_the_meadow_003_std.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "14_dreams_in_the_meadow_004_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "14_dreams_in_the_meadow_004_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "14_dreams_in_the_meadow_005_std.jpg"
+width = "392"
+height = "600"
+thumbpath = "14_dreams_in_the_meadow_005_std.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "14_dreams_in_the_meadow_006_std.jpg"
+width = "381"
+height = "600"
+thumbpath = "14_dreams_in_the_meadow_006_std.jpg"
+thumbwidth = "47"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "14_dreams_in_the_meadow_007_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "14_dreams_in_the_meadow_007_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "15_xiao_fang_niu_001_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "15_xiao_fang_niu_001_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "15_xiao_fang_niu_002_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "15_xiao_fang_niu_002_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "15_xiao_fang_niu_003_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "15_xiao_fang_niu_003_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "15_xiao_fang_niu_004_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "15_xiao_fang_niu_004_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "16_shepards_tale_001_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "16_shepards_tale_001_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "16_shepards_tale_002_std.jpg"
+width = "600"
+height = "399"
+thumbpath = "16_shepards_tale_002_std.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "16_shepards_tale_003_std.jpg"
+width = "396"
+height = "600"
+thumbpath = "16_shepards_tale_003_std.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "16_shepards_tale_004_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "16_shepards_tale_004_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "16_shepards_tale_005_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "16_shepards_tale_005_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "16_shepards_tale_006_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "16_shepards_tale_006_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "18_hiphop_001_std.jpg"
+width = "600"
+height = "399"
+thumbpath = "18_hiphop_001_std.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "18_hiphop_002_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "18_hiphop_002_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "18_hiphop_003_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "18_hiphop_003_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "18_hiphop_004_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "18_hiphop_004_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "18_hiphop_005_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "18_hiphop_005_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "18_hiphop_006_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "18_hiphop_006_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "18_hiphop_007_std.jpg"
+width = "600"
+height = "402"
+thumbpath = "18_hiphop_007_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "18_hiphop_008_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "18_hiphop_008_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "18_hiphop_009_std.jpg"
+width = "402"
+height = "600"
+thumbpath = "18_hiphop_009_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "23_formal_group_pictures_001_std.jpg"
+width = "600"
+height = "401"
+thumbpath = "23_formal_group_pictures_001_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "23_formal_group_pictures_005_std.jpg"
+width = "600"
+height = "401"
+thumbpath = "23_formal_group_pictures_005_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "24_preshow_002_std.jpg"
+width = "600"
+height = "401"
+thumbpath = "24_preshow_002_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "25_harvard_chinese_music_ensemble_001_std.jpg"
+width = "600"
+height = "399"
+thumbpath = "25_harvard_chinese_music_ensemble_001_std.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "26_spark_boa_002_std.jpg"
+width = "600"
+height = "401"
+thumbpath = "26_spark_boa_002_std.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "26_spark_boa_003_std.jpg"
+width = "401"
+height = "600"
+thumbpath = "26_spark_boa_003_std.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+</images>
+</gallery>

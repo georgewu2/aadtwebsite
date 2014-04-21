@@ -1,0 +1,131 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename>AADT Gallery - Behind the Scenes</sitename>
+	<photographer>Photos Courtesy Franklin Zhao</photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "IMG_1323.jpg"
+width = "450"
+height = "337"
+thumbpath = "IMG_1323.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1326.jpg"
+width = "450"
+height = "337"
+thumbpath = "IMG_1326.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1327.jpg"
+width = "450"
+height = "337"
+thumbpath = "IMG_1327.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1330.jpg"
+width = "450"
+height = "337"
+thumbpath = "IMG_1330.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1331.jpg"
+width = "450"
+height = "337"
+thumbpath = "IMG_1331.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1337.jpg"
+width = "450"
+height = "337"
+thumbpath = "IMG_1337.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1404.jpg"
+width = "450"
+height = "337"
+thumbpath = "IMG_1404.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1405.jpg"
+width = "450"
+height = "337"
+thumbpath = "IMG_1405.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1407.jpg"
+width = "450"
+height = "337"
+thumbpath = "IMG_1407.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1409.jpg"
+width = "450"
+height = "337"
+thumbpath = "IMG_1409.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "IMG_1492.jpg"
+width = "450"
+height = "337"
+thumbpath = "IMG_1492.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+</images>
+</gallery>
