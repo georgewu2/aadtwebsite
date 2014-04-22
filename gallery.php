@@ -28,6 +28,7 @@
 						<td>
 							<p><strong>Videography </strong></p>
 							<ul>
+							<li><a href="https://www.youtube.com/watch?v=yqxtupmyqhU">Eastbound 2014 Promotional Video</a></li>
 							<li><a href="http://www.youtube.com/watch?v=nv9OArmR-tM">Eastbound 2013 Promotional Video</a></li>
 							<li><a href="http://www.youtube.com/watch?v=tXO2YXeiye8">Eastbound 2012 Promotional Video</a></li>							
 							<li><a href="http://www.youtube.com/watch?v=n57B4_rwXng">Eastbound 2011 Promotional Video</a></li>
