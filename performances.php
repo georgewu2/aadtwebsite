@@ -11,6 +11,19 @@
     	<div class="right3" id="transparent"></div>
 			<div class="right3">
     		<h1>Performances</h1>
+    				<p><b>2013-2014</b><br/></p>
+    				<b>Cultural Rhythms</b><br/>
+    				<i>Flagship</i><br/>
+    				[02.22.14| Sanders Theatre]<br/>
+    				<b>CSA Banquet</b><br/>
+					<i>One Last Shot</i><br/>
+    				[02.21.14| Quincy Dining Hall]<br/>
+    				<b>HPAIR I-Night</b><br/>
+    				<i>Company</i><br/>
+    				[02.15.14| Lowell Lecture Hall]<br/>
+    				<b>AAA FEAST</b><br/>
+    				<i>Serendipity</i><br/>
+    				[11.08.13| Quincy Dining Hall]<br/>
 					<p><b>2012-2013 </b><br></p>
 					<b>MIT Inspirasian</b><br>
 					[05.05.13| MIT] <br>
