@@ -50,8 +50,6 @@ $id = $_SESSION["id"];
 			print('<br>');			
 		}
 	?>
-						<h4>American Bullion</h4>
-			<p>Working within a large dance production company is about a lot more than just performances. Many of the largest productions are run like fortune 500 companies and are required to provide benefits and compensation for their full time employees. Don't be surprised to find dancers with a 401K and a <a href="http://www.americanbullion.com/gold-ira">gold IRA</a> in their retirement plan.</p>		
 			<h4>Organic Mattresses for Dancers</h4>
 			<p>After a long day in the dance studio it can be nice to come back to your house to relax and unwind. Make sure your lounging area is comfortable with an <a href="http://www.lifekind.com">organic mattress</a> and down comforter. Getting a good night's rest is a good way to be prepared for the next day's tasks.</p>
 			<h4>Find Employment with Executive Job Searches</h4>
