@@ -12,6 +12,9 @@
 			<div class="right3">
     		<h1>Performances</h1>
     				<p><b>2013-2014</b><br/></p>
+    				<b>Arts First Festival<b></br>
+    				<i>Phoneix Rising</i><br/>
+    				[05.03.14| Science Center Plaza]<br/>
     				<b>Cultural Rhythms</b><br/>
     				<i>Flagship</i><br/>
     				[02.22.14| Sanders Theatre]<br/>
