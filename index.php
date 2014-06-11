@@ -52,8 +52,6 @@ $id = $_SESSION["id"];
 	?>
 			<h4>Organic Mattresses for Dancers</h4>
 			<p>After a long day in the dance studio it can be nice to come back to your house to relax and unwind. Make sure your lounging area is comfortable with an <a href="http://www.lifekind.com">organic mattress</a> and down comforter. Getting a good night's rest is a good way to be prepared for the next day's tasks.</p>
-			<h4>Find Employment with Executive Job Searches</h4>
-			<p>Dancing is a sport and hobby that is fundamental in just about every culture in the world. As such, it can be a great extra-curricular activity to have on your resume. Some of the top <a href="https://www.bluesteps.com">executive search</a> firms look for people who have a well-rounded background rather than people who are specialized to a specific skill.</p>
 			</div>
 			    		
 		</div>
