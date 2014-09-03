@@ -22,10 +22,10 @@ $id = $_SESSION["id"];
 				<img src="images/aadt_logo.png" />
 				<p>Welcome to the website of the Harvard Asian American Dance Troupe (AADT), a student-run organization at Harvard College! Please join us as we explore the world of Asian culture and dance.</p>
 	<h2><b>Important dates for Fall 2014<b> | September 2, 2014</h2><br/>
-	Fri, Sept 5 - Extracurricular Fair - 4PM - 7PM @ SOCH Lawn
-	Sat, Sept 6 - Introductory Meeting for Freshmen - 1PM - 2PM @ Sever 103
-	Sun, Sept 7 - First General Rehearsal - 2PM - 4PM @ 74 Mt. Auburn St
-	Sun, Sept 14 - Fall Showcase - 2PM - 4PM @ 74 Mt. Auburn St
+	Fri, Sept 5 - Extracurricular Fair - 4PM - 7PM @ SOCH Lawn<br/>
+	Sat, Sept 6 - Introductory Meeting for Freshmen - 1PM - 2PM @ Sever 103<br/>
+	Sun, Sept 7 - First General Rehearsal - 2PM - 4PM @ 74 Mt. Auburn St<br/>
+	Sun, Sept 14 - Fall Showcase - 2PM - 4PM @ 74 Mt. Auburn St<br/>
 	Sun, Sept 21 - Fall Shopping - All day @ 74 Mt. Auburn St
 
 	<h2><b>Join AADT 2014-2015!</b> | April 21, 2014 </h2><br/>
