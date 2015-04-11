@@ -1,6 +1,6 @@
 <?
 // require common code
-require_once("includes/common.php"); 
+//require_once("includes/common.php"); 
 
 $id = $_SESSION["id"];
 
