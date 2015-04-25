@@ -21,6 +21,10 @@ $id = $_SESSION["id"];
     		<div class="center">
 				<img src="images/aadt_logo.png" />
 				<p>Welcome to the website of the Harvard Asian American Dance Troupe (AADT), a student-run organization at Harvard College! Please join us as we explore the world of Asian culture and dance.</p>
+	
+	<h2><b>Eastbound 2015 Videos!!!</b> | April 25, 2015 </h2><br/>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/ViVx2fYRceA?list=PLadDdfXlfSo0gKL9EuCmv31ZbHVaGopFt" frameborder="0" allowfullscreen></iframe>
+
 	<h2><b>Important dates for Fall 2014</b> | September 2, 2014</h2><br/>
 	Fri, Sept 5 - Extracurricular Fair - 4PM - 7PM @ SOCH Lawn<br/>
 	Sat, Sept 6 - Introductory Meeting for Freshmen - 1PM - 2PM @ Sever 103<br/>
