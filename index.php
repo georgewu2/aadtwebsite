@@ -62,8 +62,6 @@ $id = $_SESSION["id"];
 	// 	}
 	// ?>
 -->
-			<h4>Solar Energy for Homes</h4>
-			<p>Dance troupes are often looking for ways to save on long-term expenses. One way that many residential and commercial buildings are saving money is through the use of solar panels. Even if you don't own solar, you can still <a href="http://www.buysolarenergysystem.com">buy solar energy</a> from distributors in the market.</p>
 
 			<h4>Organic Mattresses for Dancers</h4>
 			<p>After a long day in the dance studio it can be nice to come back to your house to relax and unwind. Make sure your lounging area is comfortable with an <a href="http://www.lifekind.com">organic mattress</a> and down comforter. Getting a good night's rest is a good way to be prepared for the next day's tasks.</p>

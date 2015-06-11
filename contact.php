@@ -16,11 +16,11 @@
 				<p>To find out more about AADT, or to invite/hire us for a performance, please contact the co-captains. </p>             
 				<p>
 				Troupe Captains:<br><br>
-				Lydia Chen <b>lydiachen@college.harvard.edu</b></a><br>
-				LuShuang Xu <b>lushuangxu@college.harvard.edu</a></b><br>
+				George Wu <b>georgewu@college.harvard.edu</b></a><br>
+				Shannon Zhu <b>shannonzhu@college.harvard.edu</a></b><br>
 				</b><br>
 				Questions & comments related to the website:<br>
-				George Wu [<a href="mailto:georgewu@college.harvard.edu"><b>georgewu@college.harvard.edu</b></a>]
+				Amy Kang [<a href="mailto:georgewu@college.harvard.edu"><b>amykang@college.harvard.edu</b></a>]
 				</p>  
 			</div>
 		</div>
