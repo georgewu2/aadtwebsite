@@ -20,7 +20,7 @@
 				Shannon Zhu <b>shannonzhu@college.harvard.edu</a></b><br>
 				</b><br>
 				Questions & comments related to the website:<br>
-				Amy Kang [<a href="mailto:georgewu@college.harvard.edu"><b>amykang@college.harvard.edu</b></a>]
+				Amy Kang [<a href="mailto:amykang@college.harvard.edu"><b>amykang@college.harvard.edu</b></a>]
 				</p>  
 			</div>
 		</div>
